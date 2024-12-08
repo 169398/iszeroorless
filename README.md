@@ -5,13 +5,13 @@ A simple TypeScript utility package to check if a number is zero or less.
 ## Installation
 
 ```bash
-npm install iszeroorless
+npm install iszero-or-less
 ```
 
 ## Usage
 
 ```typescript
-import isZeroOrLess from 'iszeroorless';
+import isZeroOrLess from 'iszero-or-less';
 
 isZeroOrLess(0); // true
 isZeroOrLess(-1); // true

@@ -1,7 +1,7 @@
 {
   "name": "iszero-or-less",
-  "version": "1.0.1",
-  "description": "A simple TypeScript function to check if a number is zero or less",
+  "version": "1.0.2",
+  "description": "A TypeScript package to check if a number is zero or less",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
