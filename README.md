@@ -1,6 +1,6 @@
 # iszeroorless
 
-A simple TypeScript utility function to check if a number is zero or less.
+A simple TypeScript utility package to check if a number is zero or less.
 
 ## Installation
 
