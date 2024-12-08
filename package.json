@@ -1,6 +1,6 @@
 {
   "name": "iszeroorless",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple TypeScript function to check if a number is zero or less",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
